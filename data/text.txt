@@ -102,4 +102,7 @@ rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
 dnf install jenkins -y
 systemctl enable jenkins
 systemctl start jenkins
+-------
+
+https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.93/bin/apache-tomcat-9.0.93.tar.gz
 
